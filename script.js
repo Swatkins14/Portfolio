@@ -13,6 +13,6 @@
 
 // combineName(Sam, Watkins);
 
-function combineName(forename, surname) {console.log(`My name is ${forename} + ${surname}`)}
+function combineName(forename, surname) {console.log(`My name is ${forename} ${surname}`)}
 
 combineName(`Sam`, `Watkins`);
