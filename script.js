@@ -3,7 +3,12 @@
 
 // console.log(`This is todays date ${date}`)
 
-let sentence = "I am a new sentence"
-function runsentence { console.log(sentence)}
+// let sentence = "I am a new sentence"
+// function runsentence { console.log(sentence)}
 
-console.log(runsentence);
+// console.log(runsentence);
+
+function combineName {console.log(`My name is ${forename} + ${surname}`)}
+let combineName(forename, surname)
+
+combineName(Sam, Watkins);
