@@ -23,4 +23,4 @@
 // console.log(combineName(`Sam`, `Watkins`));
 
 combineName = (forename, Surname) => `My name is ${forename} ${surname}`
-console.log(combineName);
+console.log(combineName(Sam, Watkins));
