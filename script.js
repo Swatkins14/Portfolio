@@ -8,7 +8,11 @@
 
 // console.log(runsentence);
 
-function combineName {console.log(`My name is ${forename} + ${surname}`)}
-let combineName(forename, surname)
+// function combineName = {console.log(`My name is ${forename} + ${surname}`)}
+// let combineName(forename, surname)
+
+// combineName(Sam, Watkins);
+
+function combineName(forename, surname) = {console.log(`My name is ${forename} + ${surname}`)}
 
 combineName(Sam, Watkins);
