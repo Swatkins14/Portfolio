@@ -3,6 +3,7 @@
 
 // console.log(`This is todays date ${date}`)
 
-function sentence = "I am a new sentence"
+let sentence = "I am a new sentence"
+function runsentence = sentence
 
-console.log(`this is my new sentence ${sentence}`)
+console.log(runsentence);
