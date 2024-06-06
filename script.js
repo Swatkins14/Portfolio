@@ -15,4 +15,4 @@
 
 function combineName(forename, surname) {console.log(`My name is ${forename} + ${surname}`)}
 
-combineName(Sam, Watkins);
+combineName(`Sam`, `Watkins`);
