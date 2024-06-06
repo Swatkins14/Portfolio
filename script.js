@@ -17,7 +17,10 @@
 
 // combineName(`Sam`, `Watkins`);
 
-function combineName(forename, surname) {
-return `My name is ${forename} ${surname}`}
+// function combineName(forename, surname) {
+// return `My name is ${forename} ${surname}`}
 
-console.log(combineName(`Sam`, `Watkins`));
+// console.log(combineName(`Sam`, `Watkins`));
+
+combineName = (forename, Surname) => `My name is ${forename} ${surname}`
+console.log(combineName);
